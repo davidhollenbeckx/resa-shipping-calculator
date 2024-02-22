@@ -1,0 +1,10 @@
+ShipRelay Product ID,product Type,Fulfillment Category,"Unique Identifier (Barcode / UPC, etc..)",SKU,Name,Ship Length (in),Ship Width (in),Ship Height (in),Ship Weight (lbs),Tarrif code,Current Inventory count,Held count,Returned count,Discarded count,reserved (on 11/14/23 1:17pm),Last received unit cost,Total In Stock Value,"Stock at MEMPHIS, TN Location","Stock at CHATSWORTH, CA Location",Last Received On,Created On
+10028,simple,soft-goods,3267993653861,scarlett-skirt-tigris-l,Scarlett Mini in Tigris - Large / Tigris,9,7,0.75,0.25,,3,,,,,40,120,,3,2023-05-18 22:41:39,2023-05-12 21:50:04
+82047,simple,soft-goods,1753769089861,juniper-dress-sequoia-l,Juniper Mini in Sequoia - Large / Sequoia,8,7,1,0.39375,,4,,,,,40,160,,4,2023-08-01 18:17:32,2023-07-31 23:32:45
+82100,simple,soft-goods,1834592786961,anna-dress-muse-xl,Anna Slip in Muse - XL / Muse,9,7,1,0.53125,,3,,,,,40,120,,3,2023-10-17 19:26:28,2023-10-16 17:25:40
+82131,simple,soft-goods,5525472615961,sasha-trouser-link-l,Sasha Trouser in Link - Large / Link,11,9,1,0.7125,,3,,,,,40,120,,3,2023-09-26 21:18:07,2023-09-25 19:12:20
+82133,simple,soft-goods,6502899650961,emily-top-black-m,Emily Top in Black - Medium / Black,8,6,0.75,0.325,,15,,,,,40,600,,15,2023-10-04 00:02:07,2023-07-31 23:23:52
+82245,simple,soft-goods,2195468193861,lini-corset-lime-l,Lini Corset in Lime - Large - FINAL SALE / Lime,11,7,0.75,0.25,,7,,,,,40,280,,7,2023-06-22 22:36:04,2023-06-21 00:44:14
+82297,simple,soft-goods,2679992639861,sienna-top-candy-xs,Sienna Corset in Candy - XS / Candy,11,10,0.625,0.26875,,21,,,,,40,840,,21,2023-11-02 15:49:46,2023-07-17 23:34:50
+82321,simple,soft-goods,1741986747961,mazzy-skirt-muse-xs,Mazzy Mini Skirt in Muse - XS / Muse,8.5,7,0.625,0.29375,,7,,,,,40,280,,7,2023-10-17 22:59:50,2023-10-16 23:15:28
+82363,simple,soft-goods,8462024998761,pepper-bra-clementine-xs,Pepper Bra Top in Clementine - XS / Clementine,7,6,0.75,0.15625,,3,,,,,40,120,,3,2023-04-07 18:14:44,2023-04-05 21:33:54

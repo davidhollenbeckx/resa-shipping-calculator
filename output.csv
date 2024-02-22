@@ -1,0 +1,113 @@
+region,label,shipping_method,avg
+Alaska,Cost per $,Economy,0.09392273
+Alaska,$ per Pound,Economy,15.450393
+Alaska,Orders under 2 Pounds,Economy,13.922165
+All,Cost per $,Economy,0.06229608
+All,Cost per $,Ground,0.07518519
+All,$ per Pound,Ground,17.24122
+All,$ per Pound,Economy,13.96009
+All,Orders under 2 Pounds,Economy,9.909034
+All,Orders over 5 Pounds,Economy,21.26717
+All,Orders over 5 Pounds,Ground,32.38767
+All,Orders between 2 and 5 pounds,Ground,21.346464
+All,Orders under 2 Pounds,Ground,15.506832
+All,Orders between 2 and 5 pounds,Economy,15.973714
+GreatPlains,Cost per $,Economy,0.06276695
+GreatPlains,Cost per $,Ground,0.08583537
+GreatPlains,$ per Pound,Ground,20.135742
+GreatPlains,$ per Pound,Economy,13.736202
+GreatPlains,Orders between 2 and 5 pounds,Ground,20.5648
+GreatPlains,Orders under 2 Pounds,Economy,9.458782
+GreatPlains,Orders between 2 and 5 pounds,Economy,15.068281
+GreatPlains,Orders under 2 Pounds,Ground,15.392185
+GreatPlains,Orders over 5 Pounds,Ground,36.170002
+Hawaii,Cost per $,Ground,0.09084298
+Hawaii,Cost per $,Economy,0.10375111
+Hawaii,$ per Pound,Ground,15.205796
+Hawaii,$ per Pound,Economy,15.045195
+Hawaii,Orders between 2 and 5 pounds,Ground,52.46
+Hawaii,Orders under 2 Pounds,Economy,14.74602
+Hawaii,Orders between 2 and 5 pounds,Economy,29.990149
+International,Cost per $,Economy,0.15796772
+International,Cost per $,Ground,0.13893531
+International,$ per Pound,Ground,14.314566
+International,$ per Pound,Economy,43.02606
+International,Orders between 2 and 5 pounds,Economy,43.241123
+International,Orders between 2 and 5 pounds,Ground,32.9235
+International,Orders under 2 Pounds,Economy,31.565042
+International,Orders over 5 Pounds,Economy,69.49212
+MidAtlantic,Cost per $,Ground,0.08735754
+MidAtlantic,Cost per $,Economy,0.0650248
+MidAtlantic,$ per Pound,Ground,19.088467
+MidAtlantic,$ per Pound,Economy,14.097589
+MidAtlantic,Orders under 2 Pounds,Ground,16.731041
+MidAtlantic,Orders under 2 Pounds,Economy,10.129805
+MidAtlantic,Orders over 5 Pounds,Ground,37.35667
+MidAtlantic,Orders between 2 and 5 pounds,Economy,16.67205
+MidAtlantic,Orders between 2 and 5 pounds,Ground,24.245253
+MidAtlantic,Orders over 5 Pounds,Economy,NaN
+Midwest,Cost per $,Ground,0.08118014
+Midwest,Cost per $,Economy,0.0643822
+Midwest,$ per Pound,Ground,17.55005
+Midwest,$ per Pound,Economy,14.15091
+Midwest,Orders under 2 Pounds,Economy,9.956069
+Midwest,Orders over 5 Pounds,Economy,14.785229
+Midwest,Orders over 5 Pounds,Ground,38.377182
+Midwest,Orders under 2 Pounds,Ground,16.454546
+Midwest,Orders between 2 and 5 pounds,Economy,16.561317
+Midwest,Orders between 2 and 5 pounds,Ground,23.429539
+Mountain,Cost per $,Ground,0.06620924
+Mountain,Cost per $,Economy,0.057416894
+Mountain,$ per Pound,Ground,14.962653
+Mountain,$ per Pound,Economy,13.048232
+Mountain,Orders under 2 Pounds,Ground,14.699709
+Mountain,Orders between 2 and 5 pounds,Economy,14.402237
+Mountain,Orders between 2 and 5 pounds,Ground,20.270315
+Mountain,Orders under 2 Pounds,Economy,9.357997
+Mountain,Orders over 5 Pounds,Economy,35.791576
+Mountain,Orders over 5 Pounds,Ground,31.252048
+Northeast,Cost per $,Ground,0.08528719
+Northeast,Cost per $,Economy,0.06965695
+Northeast,$ per Pound,Ground,19.17661
+Northeast,$ per Pound,Economy,15.626956
+Northeast,Orders between 2 and 5 pounds,Economy,19.12177
+Northeast,Orders over 5 Pounds,Economy,24.994276
+Northeast,Orders under 2 Pounds,Ground,16.706999
+Northeast,Orders over 5 Pounds,Ground,37.420456
+Northeast,Orders under 2 Pounds,Economy,11.166655
+Northeast,Orders between 2 and 5 pounds,Ground,24.240076
+PuertoRico,Cost per $,Economy,0.09152446
+PuertoRico,$ per Pound,Economy,12.344007
+PuertoRico,Orders over 5 Pounds,Economy,NaN
+PuertoRico,Orders between 2 and 5 pounds,Economy,24.624899
+PuertoRico,Orders under 2 Pounds,Economy,15.627299
+Southeast,Cost per $,Ground,0.08464776
+Southeast,Cost per $,Economy,0.06410803
+Southeast,$ per Pound,Ground,18.523947
+Southeast,$ per Pound,Economy,13.89136
+Southeast,Orders between 2 and 5 pounds,Economy,16.806822
+Southeast,Orders over 5 Pounds,Economy,17.87698
+Southeast,Orders over 5 Pounds,Ground,37.09408
+Southeast,Orders under 2 Pounds,Ground,16.670359
+Southeast,Orders under 2 Pounds,Economy,10.21737
+Southeast,Orders between 2 and 5 pounds,Ground,24.464098
+Southwest,Cost per $,Ground,0.07189444
+Southwest,Cost per $,Economy,0.06129004
+Southwest,$ per Pound,Ground,16.64601
+Southwest,$ per Pound,Economy,13.616236
+Southwest,Orders between 2 and 5 pounds,Ground,21.279613
+Southwest,Orders under 2 Pounds,Economy,9.512205
+Southwest,Orders over 5 Pounds,Ground,28.133373
+Southwest,Orders over 5 Pounds,Economy,20.795544
+Southwest,Orders under 2 Pounds,Ground,15.0184765
+Southwest,Orders between 2 and 5 pounds,Economy,15.467679
+WestCoast,Cost per $,Economy,0.054782875
+WestCoast,Cost per $,Ground,0.06525651
+WestCoast,$ per Pound,Economy,12.7916975
+WestCoast,$ per Pound,Ground,15.598053
+WestCoast,Orders under 2 Pounds,Ground,14.00292
+WestCoast,Orders between 2 and 5 pounds,Economy,12.942039
+WestCoast,Orders over 5 Pounds,Economy,12.840086
+WestCoast,Orders over 5 Pounds,Ground,28.934624
+WestCoast,Orders under 2 Pounds,Economy,8.852071
+WestCoast,Orders between 2 and 5 pounds,Ground,18.448412
