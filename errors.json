@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "zip": "90066-3507",
+    "retail_value": "0.01",
+    "ship_weight": "0.6375",
+    "shipping_method": "",
+    "label_cost": "",
+    "packaging_cost": "",
+    "labor_cost": "2.2499988"
+  },
+  {
+    "zip": "90069-2866",
+    "retail_value": "652.38",
+    "ship_weight": "2.5125",
+    "shipping_method": "",
+    "label_cost": "",
+    "packaging_cost": "",
+    "labor_cost": "4.6499988"
+  },
+  {
+    "zip": "90503-2814",
+    "retail_value": "161.67",
+    "ship_weight": "0.425",
+    "shipping_method": "",
+    "label_cost": "4.79",
+    "packaging_cost": "",
+    "labor_cost": ""
+  },
+  {
+    "zip": "10018-6258",
+    "retail_value": "343.07",
+    "ship_weight": "1.43125",
+    "shipping_method": "",
+    "label_cost": "20.02",
+    "packaging_cost": "",
+    "labor_cost": ""
+  },
+  {
+    "zip": "10011-6876",
+    "retail_value": "106.19",
+    "ship_weight": "0.75",
+    "shipping_method": "",
+    "label_cost": "8.13",
+    "packaging_cost": "",
+    "labor_cost": ""
+  },
+  {
+    "zip": "19034-1626",
+    "retail_value": "224.35",
+    "ship_weight": "1.4875",
+    "shipping_method": "",
+    "label_cost": "13.02",
+    "packaging_cost": "",
+    "labor_cost": ""
+  },
+  {
+    "zip": "90230-4417",
+    "retail_value": "180.81",
+    "ship_weight": "0.5375",
+    "shipping_method": "",
+    "label_cost": "5.54",
+    "packaging_cost": "",
+    "labor_cost": ""
+  },
+  {
+    "zip": "11221-8116",
+    "retail_value": "181.55",
+    "ship_weight": "1.025",
+    "shipping_method": "",
+    "label_cost": "12.14",
+    "packaging_cost": "",
+    "labor_cost": ""
+  },
+  {
+    "zip": "33606-2351",
+    "retail_value": "204",
+    "ship_weight": "1.75",
+    "shipping_method": "",
+    "label_cost": "13.02",
+    "packaging_cost": "",
+    "labor_cost": ""
+  },
+  {
+    "zip": "94105-1705",
+    "retail_value": "262.08",
+    "ship_weight": "2.08125",
+    "shipping_method": "",
+    "label_cost": "",
+    "packaging_cost": "",
+    "labor_cost": "2.6499988"
+  },
+  {
+    "zip": "94123-1750",
+    "retail_value": "276.92",
+    "ship_weight": "0.95625",
+    "shipping_method": "",
+    "label_cost": "9.48",
+    "packaging_cost": "",
+    "labor_cost": ""
+  },
+  {
+    "zip": "07726-5015",
+    "retail_value": "270.67",
+    "ship_weight": "1.23125",
+    "shipping_method": "",
+    "label_cost": "16.68",
+    "packaging_cost": "",
+    "labor_cost": ""
+  }
+]

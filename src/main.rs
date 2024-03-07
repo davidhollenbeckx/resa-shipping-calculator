@@ -32,6 +32,7 @@ enum ShippingMethod {
     Priority,
     Special,
     Unknown,
+    Error,
 }
 
 impl ShippingMethod {
@@ -99,8 +100,9 @@ impl ShippingMethod {
             "UPS" => ShippingMethod::Unknown,
             "usps" => ShippingMethod::Unknown,
             "FEDEx" => ShippingMethod::Unknown,
+            "USPS First-Class Mail [Route Protection Highly Recommended Not Responsible For Lost Shipment]" => ShippingMethod::Unknown,
 
-            _ => ShippingMethod::Unknown,
+            _ => ShippingMethod::Error,
         }
     }
     fn name(&self) -> String {
@@ -112,6 +114,7 @@ impl ShippingMethod {
             ShippingMethod::Priority => String::from("Priority"),
             ShippingMethod::Special => String::from("Special"),
             ShippingMethod::Unknown => String::from("Unknown"),
+            ShippingMethod::Error => String::from("Error"),
         }
     }
 }
@@ -249,7 +252,7 @@ impl Province {
             24701..=26886 => Ok(Province::WV),
             82001..=83128 => Ok(Province::WY),
             _ => Err(Box::new(UnexpectedError {
-                message: "Invalude Zip Range.".to_string(),
+                message: "Invalid Zip Range.".to_string(),
             })),
         }
     }
@@ -386,6 +389,27 @@ impl Order {
         let packaging_cost = input.packaging_cost.parse::<f32>().unwrap_or(0.0);
         let labor_cost = input.labor_cost.parse::<f32>().unwrap_or(0.0);
         let shipping_cost = labor_cost + label_cost + packaging_cost;
+        let shipping_cost_per_pound = shipping_cost / ship_weight_f32;
+
+        return Some(Order {
+            ship_weight,
+            region,
+            shipping_cost,
+            shipping_cost_per_pound,
+            retail_value,
+            shipping_method,
+        });
+    }
+
+    fn new_from_csv_without_packaging_cost(input: &OrderFromCSVInput) -> Option<Order> {
+        let ship_weight = WeightRange::from_str(&input.ship_weight);
+        let ship_weight_f32 = input.ship_weight.parse::<f32>().ok()?;
+        let region = Region::from_string_zip(&input.zip);
+        let retail_value = input.retail_value.parse::<f32>().unwrap_or(0.0);
+        let shipping_method = ShippingMethod::from_str(&input.shipping_method);
+
+        let label_cost = input.label_cost.parse::<f32>().unwrap_or(0.0);
+        let shipping_cost = label_cost;
         let shipping_cost_per_pound = shipping_cost / ship_weight_f32;
 
         return Some(Order {
@@ -558,9 +582,12 @@ async fn run() -> Result<(), Box<dyn Error>> {
             labor_cost: record.get(labor_cost_index).unwrap_or("").to_owned(),
         };
 
-        let order = Order::new_from_csv(&order_from_csv_input);
+        let order = Order::new_from_csv_without_packaging_cost(&order_from_csv_input);
 
         if let Some(order_value) = order {
+            if order_value.shipping_method == ShippingMethod::Error {
+                errors.push(order_from_csv_input);
+            }
             parsed_orders.push(order_value);
         } else {
             errors.push(order_from_csv_input);

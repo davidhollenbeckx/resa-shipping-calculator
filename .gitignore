@@ -2,3 +2,9 @@
 /input.csv
 /.env
 .idea
+output.json
+output.csv
+average_output.json
+avg_output.json
+errors.json
+input_old.csv

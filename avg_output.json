@@ -3,277 +3,253 @@
     "region": "Alaska",
     "label": "Cost per $",
     "shipping_method": "Economy",
-    "avg": 0.09392273
+    "avg": 0.0640732
   },
   {
     "region": "Alaska",
     "label": "$ per Pound",
     "shipping_method": "Economy",
-    "avg": 15.450393
+    "avg": 11.396738
   },
   {
     "region": "Alaska",
     "label": "Orders under 2 Pounds",
     "shipping_method": "Economy",
-    "avg": 13.922165
+    "avg": 10.159125
   },
   {
     "region": "All",
     "label": "Cost per $",
     "shipping_method": "Economy",
-    "avg": 0.06229608
+    "avg": 0.04425443
   },
   {
     "region": "All",
     "label": "Cost per $",
     "shipping_method": "Ground",
-    "avg": 0.07518519
+    "avg": 0.06020041
   },
   {
     "region": "All",
     "label": "$ per Pound",
     "shipping_method": "Ground",
-    "avg": 17.24122
+    "avg": 14.031962
   },
   {
     "region": "All",
     "label": "$ per Pound",
     "shipping_method": "Economy",
-    "avg": 13.96009
-  },
-  {
-    "region": "All",
-    "label": "Orders under 2 Pounds",
-    "shipping_method": "Economy",
-    "avg": 9.909034
+    "avg": 9.695916
   },
   {
     "region": "All",
     "label": "Orders over 5 Pounds",
     "shipping_method": "Economy",
-    "avg": 21.26717
+    "avg": 15.177718
   },
   {
     "region": "All",
     "label": "Orders over 5 Pounds",
     "shipping_method": "Ground",
-    "avg": 32.38767
-  },
-  {
-    "region": "All",
-    "label": "Orders between 2 and 5 pounds",
-    "shipping_method": "Ground",
-    "avg": 21.346464
-  },
-  {
-    "region": "All",
-    "label": "Orders under 2 Pounds",
-    "shipping_method": "Ground",
-    "avg": 15.506832
+    "avg": 25.15627
   },
   {
     "region": "All",
     "label": "Orders between 2 and 5 pounds",
     "shipping_method": "Economy",
-    "avg": 15.973714
+    "avg": 11.997948
+  },
+  {
+    "region": "All",
+    "label": "Orders under 2 Pounds",
+    "shipping_method": "Ground",
+    "avg": 12.5203285
+  },
+  {
+    "region": "All",
+    "label": "Orders between 2 and 5 pounds",
+    "shipping_method": "Ground",
+    "avg": 16.824432
+  },
+  {
+    "region": "All",
+    "label": "Orders under 2 Pounds",
+    "shipping_method": "Economy",
+    "avg": 7.007421
   },
   {
     "region": "GreatPlains",
     "label": "Cost per $",
     "shipping_method": "Economy",
-    "avg": 0.06276695
+    "avg": 0.04497529
   },
   {
     "region": "GreatPlains",
     "label": "Cost per $",
     "shipping_method": "Ground",
-    "avg": 0.08583537
+    "avg": 0.06904043
   },
   {
     "region": "GreatPlains",
     "label": "$ per Pound",
     "shipping_method": "Ground",
-    "avg": 20.135742
+    "avg": 16.534388
   },
   {
     "region": "GreatPlains",
     "label": "$ per Pound",
     "shipping_method": "Economy",
-    "avg": 13.736202
+    "avg": 9.517006
   },
   {
     "region": "GreatPlains",
     "label": "Orders between 2 and 5 pounds",
     "shipping_method": "Ground",
-    "avg": 20.5648
-  },
-  {
-    "region": "GreatPlains",
-    "label": "Orders under 2 Pounds",
-    "shipping_method": "Economy",
-    "avg": 9.458782
-  },
-  {
-    "region": "GreatPlains",
-    "label": "Orders between 2 and 5 pounds",
-    "shipping_method": "Economy",
-    "avg": 15.068281
+    "avg": 16.1948
   },
   {
     "region": "GreatPlains",
     "label": "Orders under 2 Pounds",
     "shipping_method": "Ground",
-    "avg": 15.392185
+    "avg": 12.561349
+  },
+  {
+    "region": "GreatPlains",
+    "label": "Orders under 2 Pounds",
+    "shipping_method": "Economy",
+    "avg": 6.721827
   },
   {
     "region": "GreatPlains",
     "label": "Orders over 5 Pounds",
     "shipping_method": "Ground",
-    "avg": 36.170002
+    "avg": 27.52
   },
   {
-    "region": "Hawaii",
-    "label": "Cost per $",
-    "shipping_method": "Ground",
-    "avg": 0.09084298
+    "region": "GreatPlains",
+    "label": "Orders between 2 and 5 pounds",
+    "shipping_method": "Economy",
+    "avg": 11.163202
   },
   {
     "region": "Hawaii",
     "label": "Cost per $",
     "shipping_method": "Economy",
-    "avg": 0.10375111
+    "avg": 0.08245757
   },
   {
     "region": "Hawaii",
-    "label": "$ per Pound",
+    "label": "Cost per $",
     "shipping_method": "Ground",
-    "avg": 15.205796
+    "avg": 0.07662603
   },
   {
     "region": "Hawaii",
     "label": "$ per Pound",
     "shipping_method": "Economy",
-    "avg": 15.045195
+    "avg": 11.677868
+  },
+  {
+    "region": "Hawaii",
+    "label": "$ per Pound",
+    "shipping_method": "Ground",
+    "avg": 12.826087
+  },
+  {
+    "region": "Hawaii",
+    "label": "Orders between 2 and 5 pounds",
+    "shipping_method": "Economy",
+    "avg": 25.07584
   },
   {
     "region": "Hawaii",
     "label": "Orders between 2 and 5 pounds",
     "shipping_method": "Ground",
-    "avg": 52.46
+    "avg": 44.25
   },
   {
     "region": "Hawaii",
     "label": "Orders under 2 Pounds",
     "shipping_method": "Economy",
-    "avg": 14.74602
-  },
-  {
-    "region": "Hawaii",
-    "label": "Orders between 2 and 5 pounds",
-    "shipping_method": "Economy",
-    "avg": 29.990149
+    "avg": 11.055534
   },
   {
     "region": "International",
     "label": "Cost per $",
     "shipping_method": "Economy",
-    "avg": 0.15796772
+    "avg": 0.1432869
   },
   {
     "region": "International",
     "label": "Cost per $",
     "shipping_method": "Ground",
-    "avg": 0.13893531
+    "avg": 0.115936615
   },
   {
     "region": "International",
     "label": "$ per Pound",
     "shipping_method": "Ground",
-    "avg": 14.314566
+    "avg": 11.945
   },
   {
     "region": "International",
     "label": "$ per Pound",
     "shipping_method": "Economy",
-    "avg": 43.02606
+    "avg": 39.04224
   },
   {
     "region": "International",
     "label": "Orders between 2 and 5 pounds",
     "shipping_method": "Economy",
-    "avg": 43.241123
-  },
-  {
-    "region": "International",
-    "label": "Orders between 2 and 5 pounds",
-    "shipping_method": "Ground",
-    "avg": 32.9235
+    "avg": 39.499058
   },
   {
     "region": "International",
     "label": "Orders under 2 Pounds",
     "shipping_method": "Economy",
-    "avg": 31.565042
+    "avg": 28.595407
   },
   {
     "region": "International",
     "label": "Orders over 5 Pounds",
     "shipping_method": "Economy",
-    "avg": 69.49212
+    "avg": 63.034992
+  },
+  {
+    "region": "International",
+    "label": "Orders between 2 and 5 pounds",
+    "shipping_method": "Ground",
+    "avg": 27.4735
+  },
+  {
+    "region": "MidAtlantic",
+    "label": "Cost per $",
+    "shipping_method": "Economy",
+    "avg": 0.04666231
   },
   {
     "region": "MidAtlantic",
     "label": "Cost per $",
     "shipping_method": "Ground",
-    "avg": 0.08735754
-  },
-  {
-    "region": "MidAtlantic",
-    "label": "Cost per $",
-    "shipping_method": "Economy",
-    "avg": 0.0650248
+    "avg": 0.07173459
   },
   {
     "region": "MidAtlantic",
     "label": "$ per Pound",
     "shipping_method": "Ground",
-    "avg": 19.088467
+    "avg": 15.731429
   },
   {
     "region": "MidAtlantic",
     "label": "$ per Pound",
     "shipping_method": "Economy",
-    "avg": 14.097589
-  },
-  {
-    "region": "MidAtlantic",
-    "label": "Orders under 2 Pounds",
-    "shipping_method": "Ground",
-    "avg": 16.731041
-  },
-  {
-    "region": "MidAtlantic",
-    "label": "Orders under 2 Pounds",
-    "shipping_method": "Economy",
-    "avg": 10.129805
+    "avg": 9.834758
   },
   {
     "region": "MidAtlantic",
     "label": "Orders over 5 Pounds",
     "shipping_method": "Ground",
-    "avg": 37.35667
-  },
-  {
-    "region": "MidAtlantic",
-    "label": "Orders between 2 and 5 pounds",
-    "shipping_method": "Economy",
-    "avg": 16.67205
-  },
-  {
-    "region": "MidAtlantic",
-    "label": "Orders between 2 and 5 pounds",
-    "shipping_method": "Ground",
-    "avg": 24.245253
+    "avg": 30.839998
   },
   {
     "region": "MidAtlantic",
@@ -282,196 +258,226 @@
     "avg": null
   },
   {
+    "region": "MidAtlantic",
+    "label": "Orders under 2 Pounds",
+    "shipping_method": "Ground",
+    "avg": 13.711826
+  },
+  {
+    "region": "MidAtlantic",
+    "label": "Orders between 2 and 5 pounds",
+    "shipping_method": "Ground",
+    "avg": 19.65367
+  },
+  {
+    "region": "MidAtlantic",
+    "label": "Orders between 2 and 5 pounds",
+    "shipping_method": "Economy",
+    "avg": 12.822001
+  },
+  {
+    "region": "MidAtlantic",
+    "label": "Orders under 2 Pounds",
+    "shipping_method": "Economy",
+    "avg": 7.2664785
+  },
+  {
     "region": "Midwest",
     "label": "Cost per $",
     "shipping_method": "Ground",
-    "avg": 0.08118014
+    "avg": 0.0658409
   },
   {
     "region": "Midwest",
     "label": "Cost per $",
     "shipping_method": "Economy",
-    "avg": 0.0643822
+    "avg": 0.04583961
   },
   {
     "region": "Midwest",
     "label": "$ per Pound",
     "shipping_method": "Ground",
-    "avg": 17.55005
+    "avg": 14.53029
   },
   {
     "region": "Midwest",
     "label": "$ per Pound",
     "shipping_method": "Economy",
-    "avg": 14.15091
-  },
-  {
-    "region": "Midwest",
-    "label": "Orders under 2 Pounds",
-    "shipping_method": "Economy",
-    "avg": 9.956069
+    "avg": 9.824738
   },
   {
     "region": "Midwest",
     "label": "Orders over 5 Pounds",
     "shipping_method": "Economy",
-    "avg": 14.785229
+    "avg": 11.12875
   },
   {
     "region": "Midwest",
-    "label": "Orders over 5 Pounds",
+    "label": "Orders between 2 and 5 pounds",
     "shipping_method": "Ground",
-    "avg": 38.377182
-  },
-  {
-    "region": "Midwest",
-    "label": "Orders under 2 Pounds",
-    "shipping_method": "Ground",
-    "avg": 16.454546
+    "avg": 18.724016
   },
   {
     "region": "Midwest",
     "label": "Orders between 2 and 5 pounds",
     "shipping_method": "Economy",
-    "avg": 16.561317
+    "avg": 12.503079
   },
   {
     "region": "Midwest",
-    "label": "Orders between 2 and 5 pounds",
+    "label": "Orders under 2 Pounds",
     "shipping_method": "Ground",
-    "avg": 23.429539
+    "avg": 13.484694
+  },
+  {
+    "region": "Midwest",
+    "label": "Orders over 5 Pounds",
+    "shipping_method": "Ground",
+    "avg": 31.324331
+  },
+  {
+    "region": "Midwest",
+    "label": "Orders under 2 Pounds",
+    "shipping_method": "Economy",
+    "avg": 7.064545
   },
   {
     "region": "Mountain",
     "label": "Cost per $",
     "shipping_method": "Ground",
-    "avg": 0.06620924
+    "avg": 0.0530757
   },
   {
     "region": "Mountain",
     "label": "Cost per $",
     "shipping_method": "Economy",
-    "avg": 0.057416894
-  },
-  {
-    "region": "Mountain",
-    "label": "$ per Pound",
-    "shipping_method": "Ground",
-    "avg": 14.962653
+    "avg": 0.039913572
   },
   {
     "region": "Mountain",
     "label": "$ per Pound",
     "shipping_method": "Economy",
-    "avg": 13.048232
+    "avg": 8.875362
   },
   {
     "region": "Mountain",
-    "label": "Orders under 2 Pounds",
+    "label": "$ per Pound",
     "shipping_method": "Ground",
-    "avg": 14.699709
+    "avg": 12.111649
   },
   {
     "region": "Mountain",
     "label": "Orders between 2 and 5 pounds",
     "shipping_method": "Economy",
-    "avg": 14.402237
-  },
-  {
-    "region": "Mountain",
-    "label": "Orders between 2 and 5 pounds",
-    "shipping_method": "Ground",
-    "avg": 20.270315
+    "avg": 10.311028
   },
   {
     "region": "Mountain",
     "label": "Orders under 2 Pounds",
     "shipping_method": "Economy",
-    "avg": 9.357997
+    "avg": 6.4342523
+  },
+  {
+    "region": "Mountain",
+    "label": "Orders between 2 and 5 pounds",
+    "shipping_method": "Ground",
+    "avg": 15.878422
   },
   {
     "region": "Mountain",
     "label": "Orders over 5 Pounds",
     "shipping_method": "Economy",
-    "avg": 35.791576
+    "avg": 30.590164
+  },
+  {
+    "region": "Mountain",
+    "label": "Orders under 2 Pounds",
+    "shipping_method": "Ground",
+    "avg": 11.813702
   },
   {
     "region": "Mountain",
     "label": "Orders over 5 Pounds",
     "shipping_method": "Ground",
-    "avg": 31.252048
+    "avg": 23.557777
   },
   {
     "region": "Northeast",
     "label": "Cost per $",
     "shipping_method": "Ground",
-    "avg": 0.08528719
+    "avg": 0.07006195
   },
   {
     "region": "Northeast",
     "label": "Cost per $",
     "shipping_method": "Economy",
-    "avg": 0.06965695
+    "avg": 0.051811434
   },
   {
     "region": "Northeast",
     "label": "$ per Pound",
     "shipping_method": "Ground",
-    "avg": 19.17661
+    "avg": 15.855366
   },
   {
     "region": "Northeast",
     "label": "$ per Pound",
     "shipping_method": "Economy",
-    "avg": 15.626956
+    "avg": 11.336803
   },
   {
     "region": "Northeast",
     "label": "Orders between 2 and 5 pounds",
     "shipping_method": "Economy",
-    "avg": 19.12177
-  },
-  {
-    "region": "Northeast",
-    "label": "Orders over 5 Pounds",
-    "shipping_method": "Economy",
-    "avg": 24.994276
-  },
-  {
-    "region": "Northeast",
-    "label": "Orders under 2 Pounds",
-    "shipping_method": "Ground",
-    "avg": 16.706999
+    "avg": 15.33308
   },
   {
     "region": "Northeast",
     "label": "Orders over 5 Pounds",
     "shipping_method": "Ground",
-    "avg": 37.420456
+    "avg": 30.660322
   },
   {
     "region": "Northeast",
     "label": "Orders under 2 Pounds",
-    "shipping_method": "Economy",
-    "avg": 11.166655
+    "shipping_method": "Ground",
+    "avg": 13.720522
   },
   {
     "region": "Northeast",
     "label": "Orders between 2 and 5 pounds",
     "shipping_method": "Ground",
-    "avg": 24.240076
+    "avg": 19.833302
+  },
+  {
+    "region": "Northeast",
+    "label": "Orders over 5 Pounds",
+    "shipping_method": "Economy",
+    "avg": 12.008901
+  },
+  {
+    "region": "Northeast",
+    "label": "Orders under 2 Pounds",
+    "shipping_method": "Economy",
+    "avg": 8.241737
   },
   {
     "region": "PuertoRico",
     "label": "Cost per $",
     "shipping_method": "Economy",
-    "avg": 0.09152446
+    "avg": 0.07350043
   },
   {
     "region": "PuertoRico",
     "label": "$ per Pound",
     "shipping_method": "Economy",
-    "avg": 12.344007
+    "avg": 10.662873
+  },
+  {
+    "region": "PuertoRico",
+    "label": "Orders between 2 and 5 pounds",
+    "shipping_method": "Economy",
+    "avg": 19.874666
   },
   {
     "region": "PuertoRico",
@@ -481,194 +487,188 @@
   },
   {
     "region": "PuertoRico",
-    "label": "Orders between 2 and 5 pounds",
-    "shipping_method": "Economy",
-    "avg": 24.624899
-  },
-  {
-    "region": "PuertoRico",
     "label": "Orders under 2 Pounds",
     "shipping_method": "Economy",
-    "avg": 15.627299
-  },
-  {
-    "region": "Southeast",
-    "label": "Cost per $",
-    "shipping_method": "Ground",
-    "avg": 0.08464776
+    "avg": 11.424562
   },
   {
     "region": "Southeast",
     "label": "Cost per $",
     "shipping_method": "Economy",
-    "avg": 0.06410803
+    "avg": 0.04605184
+  },
+  {
+    "region": "Southeast",
+    "label": "Cost per $",
+    "shipping_method": "Ground",
+    "avg": 0.06960296
   },
   {
     "region": "Southeast",
     "label": "$ per Pound",
     "shipping_method": "Ground",
-    "avg": 18.523947
+    "avg": 15.394713
   },
   {
     "region": "Southeast",
     "label": "$ per Pound",
     "shipping_method": "Economy",
-    "avg": 13.89136
+    "avg": 9.767045
   },
   {
     "region": "Southeast",
     "label": "Orders between 2 and 5 pounds",
     "shipping_method": "Economy",
-    "avg": 16.806822
-  },
-  {
-    "region": "Southeast",
-    "label": "Orders over 5 Pounds",
-    "shipping_method": "Economy",
-    "avg": 17.87698
-  },
-  {
-    "region": "Southeast",
-    "label": "Orders over 5 Pounds",
-    "shipping_method": "Ground",
-    "avg": 37.09408
+    "avg": 12.796903
   },
   {
     "region": "Southeast",
     "label": "Orders under 2 Pounds",
     "shipping_method": "Ground",
-    "avg": 16.670359
+    "avg": 13.685487
+  },
+  {
+    "region": "Southeast",
+    "label": "Orders over 5 Pounds",
+    "shipping_method": "Ground",
+    "avg": 28.96607
+  },
+  {
+    "region": "Southeast",
+    "label": "Orders over 5 Pounds",
+    "shipping_method": "Economy",
+    "avg": 13.622749
   },
   {
     "region": "Southeast",
     "label": "Orders under 2 Pounds",
     "shipping_method": "Economy",
-    "avg": 10.21737
+    "avg": 7.274713
   },
   {
     "region": "Southeast",
     "label": "Orders between 2 and 5 pounds",
     "shipping_method": "Ground",
-    "avg": 24.464098
+    "avg": 20.021927
   },
   {
     "region": "Southwest",
     "label": "Cost per $",
     "shipping_method": "Ground",
-    "avg": 0.07189444
+    "avg": 0.056698266
   },
   {
     "region": "Southwest",
     "label": "Cost per $",
     "shipping_method": "Economy",
-    "avg": 0.06129004
-  },
-  {
-    "region": "Southwest",
-    "label": "$ per Pound",
-    "shipping_method": "Ground",
-    "avg": 16.64601
+    "avg": 0.042698782
   },
   {
     "region": "Southwest",
     "label": "$ per Pound",
     "shipping_method": "Economy",
-    "avg": 13.616236
+    "avg": 9.294827
   },
   {
     "region": "Southwest",
-    "label": "Orders between 2 and 5 pounds",
+    "label": "$ per Pound",
     "shipping_method": "Ground",
-    "avg": 21.279613
-  },
-  {
-    "region": "Southwest",
-    "label": "Orders under 2 Pounds",
-    "shipping_method": "Economy",
-    "avg": 9.512205
-  },
-  {
-    "region": "Southwest",
-    "label": "Orders over 5 Pounds",
-    "shipping_method": "Ground",
-    "avg": 28.133373
+    "avg": 13.438377
   },
   {
     "region": "Southwest",
     "label": "Orders over 5 Pounds",
     "shipping_method": "Economy",
-    "avg": 20.795544
+    "avg": 14.791315
+  },
+  {
+    "region": "Southwest",
+    "label": "Orders over 5 Pounds",
+    "shipping_method": "Ground",
+    "avg": 22.022108
+  },
+  {
+    "region": "Southwest",
+    "label": "Orders under 2 Pounds",
+    "shipping_method": "Economy",
+    "avg": 6.6107907
   },
   {
     "region": "Southwest",
     "label": "Orders under 2 Pounds",
     "shipping_method": "Ground",
-    "avg": 15.0184765
+    "avg": 12.032065
+  },
+  {
+    "region": "Southwest",
+    "label": "Orders between 2 and 5 pounds",
+    "shipping_method": "Ground",
+    "avg": 16.551989
   },
   {
     "region": "Southwest",
     "label": "Orders between 2 and 5 pounds",
     "shipping_method": "Economy",
-    "avg": 15.467679
-  },
-  {
-    "region": "WestCoast",
-    "label": "Cost per $",
-    "shipping_method": "Economy",
-    "avg": 0.054782875
+    "avg": 11.443709
   },
   {
     "region": "WestCoast",
     "label": "Cost per $",
     "shipping_method": "Ground",
-    "avg": 0.06525651
+    "avg": 0.05046726
+  },
+  {
+    "region": "WestCoast",
+    "label": "Cost per $",
+    "shipping_method": "Economy",
+    "avg": 0.036980685
+  },
+  {
+    "region": "WestCoast",
+    "label": "$ per Pound",
+    "shipping_method": "Ground",
+    "avg": 12.373989
   },
   {
     "region": "WestCoast",
     "label": "$ per Pound",
     "shipping_method": "Economy",
-    "avg": 12.7916975
-  },
-  {
-    "region": "WestCoast",
-    "label": "$ per Pound",
-    "shipping_method": "Ground",
-    "avg": 15.598053
-  },
-  {
-    "region": "WestCoast",
-    "label": "Orders under 2 Pounds",
-    "shipping_method": "Ground",
-    "avg": 14.00292
-  },
-  {
-    "region": "WestCoast",
-    "label": "Orders between 2 and 5 pounds",
-    "shipping_method": "Economy",
-    "avg": 12.942039
-  },
-  {
-    "region": "WestCoast",
-    "label": "Orders over 5 Pounds",
-    "shipping_method": "Economy",
-    "avg": 12.840086
-  },
-  {
-    "region": "WestCoast",
-    "label": "Orders over 5 Pounds",
-    "shipping_method": "Ground",
-    "avg": 28.934624
+    "avg": 8.491283
   },
   {
     "region": "WestCoast",
     "label": "Orders under 2 Pounds",
     "shipping_method": "Economy",
-    "avg": 8.852071
+    "avg": 5.982373
+  },
+  {
+    "region": "WestCoast",
+    "label": "Orders under 2 Pounds",
+    "shipping_method": "Ground",
+    "avg": 11.018964
+  },
+  {
+    "region": "WestCoast",
+    "label": "Orders over 5 Pounds",
+    "shipping_method": "Ground",
+    "avg": 21.678562
   },
   {
     "region": "WestCoast",
     "label": "Orders between 2 and 5 pounds",
     "shipping_method": "Ground",
-    "avg": 18.448412
+    "avg": 13.90243
+  },
+  {
+    "region": "WestCoast",
+    "label": "Orders over 5 Pounds",
+    "shipping_method": "Economy",
+    "avg": 9.193
+  },
+  {
+    "region": "WestCoast",
+    "label": "Orders between 2 and 5 pounds",
+    "shipping_method": "Economy",
+    "avg": 8.893536
   }
 ]
